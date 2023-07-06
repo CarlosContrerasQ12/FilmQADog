@@ -63,7 +63,6 @@ class Calibracion():
         self.panelesMatplot=figuras
         self.nombresArchivos=nombresArchivos
         self.panelDosis=panelDosis
-        
         self.fondoCero=[]
         self.fondoNegro=[]
 
